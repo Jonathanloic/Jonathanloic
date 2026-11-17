@@ -25,6 +25,7 @@ I work on vulnerability management and security engineering, and I'm specialisin
 | **Languages** | Python, Bash |
 | **Security** | Vulnerability and exposure management, risk assessment, SOC (SentinelOne) |
 | **Tools & OS** | Git, Linux, VS Code, Azure Devops |
+| **GRC** | NIS-2 , ISO27001|
 | **Learning now** | Docker, Ollama, OWASP LLM Top 10, MITRE ATLAS |
 
 ---
