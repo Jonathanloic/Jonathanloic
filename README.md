@@ -12,7 +12,7 @@ I work on vulnerability management and security engineering, and I'm specialisin
 - 🎓 Studying for a **Master's in IT Security**: cryptography, network security, software security, blockchain security
 - 🔬 Currently learning: **LLM security, prompt injection, RAG and agent security, AI red teaming**
 - 📅 Weekly build-and-break projects: each one maps to the **OWASP Top 10 for LLM Applications** and **MITRE ATLAS**
-- 💬 Ask me about: **vulnerability management, Python for security automation, AI security**
+- 💬 Ask me about: **vulnerability management, Python for security automation, AI security*, Security operation center*
 - 📫 How to reach me: [jonathanloicfondjokamtchueng@gmail.com](mailto:jonathanloicfondjokamtchueng@gmail.com)
 - ⚡ Fun fact: I like jokes 
 
