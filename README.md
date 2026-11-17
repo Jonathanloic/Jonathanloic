@@ -14,7 +14,7 @@ I work on vulnerability management and security engineering, and I'm specialisin
 - 📅 Weekly build-and-break projects: each one maps to the **OWASP Top 10 for LLM Applications** and **MITRE ATLAS**
 - 💬 Ask me about: **vulnerability management, Python for security automation, AI security**
 - 📫 How to reach me: [jonathanloicfondjokamtchueng@gmail.com](mailto:jonathanloicfondjokamtchueng@gmail.com)
-- ⚡ Fun fact: I learn best by breaking things I built myself (in my own lab, of course)
+- ⚡ Fun fact: I like jokes 
 
 ---
 
